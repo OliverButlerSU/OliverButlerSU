@@ -28,14 +28,6 @@
 - Website: [oliverbutle.com](https://www.oliverbutle.com)
 - Leetcode: [OliverButlerSU](https://leetcode.com/OliverButlerSU/)
 
-<h1 align="center">Hi 👋, I'm Oliver</h1>
-<h3 align="center">A 2nd Year Computer Science Student at Southampton University</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/oliverbutlersu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oliverbutlersu" height="30" width="40" /></a>
-</p>
-
 ## **`Stats`**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverbutlersu&show_icons=true&locale=en&layout=compact" alt="oliverbutlersu" /></p>
