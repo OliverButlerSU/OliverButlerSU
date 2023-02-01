@@ -32,3 +32,8 @@
 ## **`Stats`**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverbutlersu&show_icons=true&locale=en&layout=compact&theme=radical" alt="oliverbutlersu" /></p>
+
+## **`Todo List`**
+[X] Create a better looking GitHub Profile
+[] Create a Portfolio Website
+[] Start a cool big project (probably Settlers of Catan)
