@@ -3,8 +3,8 @@
 
 
 - 🎓 2021-2024 Bsc Computer Science Student at the University of Southampton
-- � I enjoy board games like settlers of catan, monopoly and chess and the strategies behind these games
-- � I've been coding small project since I was 10 starting with basic HTML and CSS websites, to making small games on GameMaker, to writing Python scripts and now making large Unity/C# and Java programs
+- 🎲 I enjoy board games like settlers of catan, monopoly and chess and the strategies behind these games
+- ‍💻 I've been coding small project since I was 10 starting with basic HTML and CSS websites, to making small games on GameMaker, to writing Python scripts and now making large Unity/C# and Java programs
 
 
 ## **`Languages and Tools`**
