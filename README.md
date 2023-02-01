@@ -1,4 +1,4 @@
-# **`Oliver Butler (Student/Software Engineer)`**
+## **`Oliver Butler (Student/Software Engineer)`**
 
 ## 🎓2021 Bsc Computer Science Student at the University of Southampton.
 
