@@ -30,4 +30,4 @@
 
 ## **`Stats`**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverbutlersu&show_icons=true&locale=en&layout=compact" alt="oliverbutlersu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverbutlersu&show_icons=true&locale=en&layout=compact&theme=radical" alt="oliverbutlersu" /></p>
