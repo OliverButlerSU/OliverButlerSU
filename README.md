@@ -38,7 +38,7 @@
 
 ## **`Stats`**
 
-<p><img align="left" style="padding-right:20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverbutlersu&show_icons=true&locale=en" alt="oliverbutlersu" /></p>
+<p><img align="left" style="padding-right:20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverbutlersu&show_icons=true&locale=en&theme=dark" alt="oliverbutlersu" /></p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/oliverbutlersu)](https://leetcode.com/OliverButlerSU)
 
