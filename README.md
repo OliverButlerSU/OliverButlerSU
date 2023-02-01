@@ -24,6 +24,6 @@
 
 
 
-<br />## **`Socials`**<br />
+<br /> ## **`Socials`** <br />
 - Website: [oliverbutle.com](https://www.oliverbutle.com)
 - Leetcode: [OliverButlerSU](https://leetcode.com/OliverButlerSU/)
