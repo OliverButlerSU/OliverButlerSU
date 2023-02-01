@@ -7,7 +7,7 @@ I am a 2021 Computer Science student at the University of Southampton. I enjoy p
 
 #Languages
 
-[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverButlerSU)](https://github.com/anuraghazra/github-readme-stats)
+[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverButlerSU&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **OliverButlerSU/OliverButlerSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
