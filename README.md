@@ -31,10 +31,10 @@
 
 
 ## **`Todo List`**
-- Create a better looking GitHub Profile
-- Create a Portfolio Website
-- Start a cool big project (probably Settlers of Catan)
-- Get a job
+- [X] Create a better looking GitHub Profile
+- [] Create a Portfolio Website
+- [] Start a cool big project (probably Settlers of Catan)
+- [] Get a job
 
 ## **`Stats`**
 
