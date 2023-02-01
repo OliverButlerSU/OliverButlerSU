@@ -34,7 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverbutlersu&show_icons=true&locale=en&layout=compact&theme=radical" alt="oliverbutlersu" /></p>
 
 ## **`Todo List`**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Create a better looking GitHub Profile
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Create a Portfolio Website
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Start a cool big project (probably Settlers of Catan)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Get a job
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - Create a better looking GitHub Profile
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - Create a Portfolio Website
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - Start a cool big project (probably Settlers of Catan)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - Get a job
