@@ -1,8 +1,8 @@
 # About Me
 
-**`Oliver Butler(Student/Software Engineer)`**
+**`Oliver Butler (Student/Software Engineer)`**
 
-I am a 2021 Computer Science student at the University of Southampton. I enjoy puzzles, board games and programming. 
+I am a 2021 Computer Science student at the University of Southampton. I enjoy puzzles, board games and programming.
 <!--
 **OliverButlerSU/OliverButlerSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
