@@ -30,6 +30,7 @@
 - Leetcode: [OliverButlerSU](https://leetcode.com/OliverButlerSU/)
 
 |  **`Stats`** | **`Todo List`** |
+| --- | --- |
 | <p><img align="left" style="padding-right:20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverbutlersu&show_icons=true&locale=en&layout=compact&theme=radical" alt="oliverbutlersu" /></p> | - Create a better looking GitHub Profile
 - Create a Portfolio Website
 - Start a cool big project (probably Settlers of Catan)
