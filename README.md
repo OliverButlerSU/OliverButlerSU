@@ -4,7 +4,6 @@
 
 <br> -🎓 2021-2024 Bsc Computer Science Student at the University of Southampton </br>
 <br> -🎲 I enjoy board games like settlers of catan, monopoly and chess and the strategies behind these games </br>
-
 <br> -💻 I've been coding small project since I was 10 starting with basic HTML and CSS websites, to making small games on GameMaker, to writing Python scripts and now making large Java and C# programs </br>
 
 
