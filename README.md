@@ -22,8 +22,8 @@
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 
+<br> </br>
 
-
-<br /> ## **`Socials`** <br />
+## **`Socials`**
 - Website: [oliverbutle.com](https://www.oliverbutle.com)
 - Leetcode: [OliverButlerSU](https://leetcode.com/OliverButlerSU/)
