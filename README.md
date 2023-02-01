@@ -2,7 +2,7 @@
 
 
 
--🎓2021-2024 Bsc Computer Science Student at the University of Southampton.
+-🎓2021-2024 Bsc Computer Science Student at the University of Southampton
 
 
 ## Languages and Tools
@@ -14,3 +14,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+## Socials
+- Website: [oliverbutle.com](https://www.oliverbutle.com)
