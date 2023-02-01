@@ -1,4 +1,4 @@
-<h1 align="center"> **`Oliver Butler (Student/Software Engineer)`** </h1>
+<h1 align="center"> <b> **`Oliver Butler (Student/Software Engineer)`** <b> </h1>
 
 
 
