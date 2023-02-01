@@ -34,6 +34,7 @@
 - [X] Create a better looking GitHub Profile
 - [ ] Create a Portfolio Website
 - [ ] Start a cool big project (probably like a board game like Settlers of Catan)
+- [ ] Graduate
 - [ ] Get a job
 
 ## **`Stats`**
