@@ -5,7 +5,7 @@
 -🎓2021-2024 Bsc Computer Science Student at the University of Southampton
 
 
-## Languages and Tools
+## **`Languages and Tools`**
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
@@ -23,6 +23,6 @@
 <br />
 
 
-## Socials
+## **`Socials`**
 - Website: [oliverbutle.com](https://www.oliverbutle.com)
 - Leetcode: [OliverButlerSU](https://leetcode.com/OliverButlerSU/)
