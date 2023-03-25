@@ -2,7 +2,7 @@
 
 
 
-- 🎓 2021-2024 Bsc Computer Science Student at the University of Southampton
+- 🎓 2021-2025 Meng Computer Science Student at the University of Southampton
 - 🎲 I enjoy board games like Settlers of Catan, Monopoly and Chess
 - ‍💻 I've had a passion for programming and Computer Science since I was 10
 - ⌨️ I began coding basic HTML and CSS websites, to making small games on GameMaker, to using Python to write scripts and a Discord Bot, to now making large Unity/C# and Java programs
